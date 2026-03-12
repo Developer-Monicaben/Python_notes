@@ -1,0 +1,6 @@
+{
+  "Happy": ["Dance for 5 minutes", "Listen to upbeat music", "Go for a short walk"],
+  "Sad": ["Meditate for 10 minutes", "Deep breathing exercise", "Listen to calming music"],
+  "Relaxed": ["Read a book", "Take a short nap", "Stretching exercises"],
+  "Energetic": ["Quick workout", "Jump rope for 5 mins", "Do push-ups"]
+}

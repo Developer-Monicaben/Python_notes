@@ -3,7 +3,7 @@ import mysql.connector
 
 host1="localhost"
 user1="root"
-password="*30Pm28*"
+password="password"
 dbname="Pydb"
 
 conn = mysql.connector.connect(host=host1,user=user1,password=password,database=dbname)

@@ -2,7 +2,7 @@
 import mysql.connector
 
 # Establish the connection to MySQL without selecting a database first
-conn = mysql.connector.connect(host="localhost", user="root", password="*30Pm28*")
+conn = mysql.connector.connect(host="localhost", user="root", password="password")
 cursor1 = conn.cursor()
 
 # Create the database if it doesn't already exist
